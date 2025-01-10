@@ -52,7 +52,7 @@ This project involves developing a fully autonomous rover capable of reaching a 
 Clone the project
 
 ```bash
-  git clone https://link-to-project
+  git clone https://link-to-project](https://github.com/devyani-1605/Autonomous-Rover.git
 ```
 
 Go to the project directory
